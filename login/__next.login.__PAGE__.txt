@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[24535,["/nano-pro-web-preview/_next/static/chunks/1_9p4jberleuu.js","/nano-pro-web-preview/_next/static/chunks/2h9_9w2kw6e1c.js"],"ClientPageRoot"]
+3:I[43494,["/nano-pro-web-preview/_next/static/chunks/22okp0rao9g4d.js","/nano-pro-web-preview/_next/static/chunks/14ceyx73-sf1r.js","/nano-pro-web-preview/_next/static/chunks/0gc8u_wyvgf27.js"],"LoginPage"]
+6:I[54257,["/nano-pro-web-preview/_next/static/chunks/1_9p4jberleuu.js","/nano-pro-web-preview/_next/static/chunks/2h9_9w2kw6e1c.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/nano-pro-web-preview/_next/static/chunks/14ceyx73-sf1r.js","async":true}],["$","script","script-1",{"src":"/nano-pro-web-preview/_next/static/chunks/0gc8u_wyvgf27.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-Gmp7GjtZmHebhy3tzjp-"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
