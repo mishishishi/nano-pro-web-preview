@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,64560,e=>{"use strict";var i=e.i(10155),l=e.i(74780),t=e.i(13524),s=e.i(71950);let a=(0,t.default)(()=>e.A(26225).then(e=>e.PalimpFields));e.s(["PalimpFields",0,({group:e,fields:t})=>(0,s.use)(l.PalimpGeneralContext).admin?(0,i.jsx)(a,{group:e,fields:t}):null])}]);
